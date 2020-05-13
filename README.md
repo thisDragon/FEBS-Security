@@ -1,4 +1,26 @@
-## 权限管理(用于个人学习)
+### 权限系统(用于个人学习)
+## 项目原地址:https://github.com/wuyouzhuguli/FEBS-Security
+
+├─系统管理
+│  ├─字典管理
+│  ├─用户管理
+│  ├─菜单管理
+│  ├─角色管理
+│  └─部门管理
+├─系统监控
+│  ├─在线用户
+│  └─系统日志
+├─任务调度
+│  ├─定时任务
+│  └─调度日志
+└─网络资源
+    ├─天气查询
+    ├─影视资讯
+    │  ├─即将上映
+    │  └─正在热映
+    └─每日一文
+```
+
 
 ## 技术选型
 
@@ -25,3 +47,10 @@
 - 多选下拉框插件：multiple-select
 - 图表插件：Highcharts
 - 时间插件：daterangepicker
+
+### 开发环境
+- 语言：Java 8
+- IDE：Eclipse Oxygen & IDEA 2018.1.4(Ultimate Edition)
+- 依赖管理：Maven
+- 数据库：MySQL5.7
+- 版本管理：SVN，git
